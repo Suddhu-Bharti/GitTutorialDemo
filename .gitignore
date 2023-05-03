@@ -1,3 +1,4 @@
 career.log
 *.log
 /dir/
+static/dir
